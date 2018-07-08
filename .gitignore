@@ -1,0 +1,13 @@
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+/bower_components/
+/node_modules/
+/www/bundle.js
+/www/bundle.js.map
+/server/vcap.local.json
+/package-lock.json
+/dist/
+/coverage/
+/.cfignore
+/.vscode
